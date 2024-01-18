@@ -1,0 +1,14 @@
+/Users/okan/Desktop/multiplesof3or5/bin/Debug/net8.0/multiplesof3or5
+/Users/okan/Desktop/multiplesof3or5/bin/Debug/net8.0/multiplesof3or5.deps.json
+/Users/okan/Desktop/multiplesof3or5/bin/Debug/net8.0/multiplesof3or5.runtimeconfig.json
+/Users/okan/Desktop/multiplesof3or5/bin/Debug/net8.0/multiplesof3or5.dll
+/Users/okan/Desktop/multiplesof3or5/bin/Debug/net8.0/multiplesof3or5.pdb
+/Users/okan/Desktop/multiplesof3or5/obj/Debug/net8.0/multiplesof3or5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okan/Desktop/multiplesof3or5/obj/Debug/net8.0/multiplesof3or5.AssemblyInfoInputs.cache
+/Users/okan/Desktop/multiplesof3or5/obj/Debug/net8.0/multiplesof3or5.AssemblyInfo.cs
+/Users/okan/Desktop/multiplesof3or5/obj/Debug/net8.0/multiplesof3or5.csproj.CoreCompileInputs.cache
+/Users/okan/Desktop/multiplesof3or5/obj/Debug/net8.0/multiplesof3or5.dll
+/Users/okan/Desktop/multiplesof3or5/obj/Debug/net8.0/refint/multiplesof3or5.dll
+/Users/okan/Desktop/multiplesof3or5/obj/Debug/net8.0/multiplesof3or5.pdb
+/Users/okan/Desktop/multiplesof3or5/obj/Debug/net8.0/multiplesof3or5.genruntimeconfig.cache
+/Users/okan/Desktop/multiplesof3or5/obj/Debug/net8.0/ref/multiplesof3or5.dll
